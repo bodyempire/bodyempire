@@ -1,47 +1,49 @@
-# 🚀 Hi, I'm Ishimwe Isaac (@bodyempire)
-
-### Full-Stack Developer | LLM Training & Fine-tuning | Builder of @Urukari
-
-I'm a developer obsessed with building scalable systems and exploring the frontier of AI. My work ranges from crafting seamless user interfaces with **React** to architecting robust backends and training **Large Language Models**.
+# 👋 Hi, I'm Ishimwe Isaac
 
 ---
 
-### 🛠 My Tech Stack
+### About
+Full-stack engineer focused on building scalable, AI-integrated applications and robust data systems.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | JavaScript (ES6+), TypeScript, Python, HTML5, CSS3 |
-| **Frontend** | React, Tailwind CSS, Next.js |
-| **Backend** | Node.js, Django, REST APIs |
-| **Databases** | MySQL, MongoDB, PL/SQL |
-| **AI/ML** | LLM Training, Prompt Engineering, Dataset Curation |
-| **Tools** | Git, Docker, Linux, Postman |
+I value deep engineering principles over surface-level trends. I grow by tackling complex architectural challenges, refining model performance, and collaborating on real-world systems. My interests lie in how AI can be seamlessly integrated into production environments to solve genuine problems without adding unnecessary complexity.
 
----
-
-### 🏗 Current Focus: @Urukari
-I am currently leading the development of **Urukari**, an AI-driven project I've been refining since last year. It involves deep integration of LLMs and high-performance database management.
-
-* 🔭 **I’m currently working on:** Optimizing Urukari's inference speed.
-* 🌱 **I’m currently learning:** Advanced Vector Databases and RAG (Retrieval-Augmented Generation).
-* 💬 **Ask me about:** React, Node.js, or why your SQL query is slow.
-* ⚡ **Fun fact:** I believe clean code is a love letter to the next developer who touches it.
+### How I Think About Development
+* **Solve the problem, then optimize:** Functional code first, performance tuning second.
+* **Type safety is non-negotiable:** Prefer TypeScript for maintainable, predictable codebases.
+* **AI as a tool, not a gimmick:** Focus on fine-tuning and LLM integration that adds measurable value.
+* **User-centric design:** Even the most complex backend should serve a simple, intuitive frontend.
+* **Clarity over cleverness:** Writing code that my future self (and my team) can actually read.
 
 ---
 
-### 📊 GitHub Stats
+### Core Stack
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bodyempire&show_icons=true&theme=tokyonight&hide_border=true" alt="Isaac's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodyempire&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend and Styling**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend and Frameworks**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**AI and LLM (Applied)**
+![LLM Training](https://img.shields.io/badge/LLM_Training-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-326CE5?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ---
 
-### 📫 Let's Connect
+### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
----
-*“Building the future, one commit at a time.”*
