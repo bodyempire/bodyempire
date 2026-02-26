@@ -53,7 +53,7 @@ I value deep understanding over surface-level familiarity. I grow by learning fr
 ---
 
 ### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ishimwe-isaac-6062b421a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/ishimwe-isaac-6062b421a/)](https://www.linkedin.com/in/ishimwe-isaac-6062b421a/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishimweisaac123@gmail.com)
 
 *Learning continuously. Building thoughtfully. Growing through collaboration.*
